@@ -21,7 +21,7 @@ nav{
 }
 .leftnav li{
   list-style: none;
-  font-family: cursive;
+  font-family: 'Lobster';
   font-weight: bolder;
   font-size: 25px;
   margin-top: 60px;
@@ -86,6 +86,11 @@ span{
   font-weight: lighter;
   text-align: center;
 }
+.intro img{
+  margin-left: 160px;
+}
+
+
 
 
 .about{
@@ -94,12 +99,12 @@ span{
   width: 570px;
   margin-left: 20px;
   margin-bottom: 50px;
-  color: #827F81;
+  padding-right: 200px;
 }
 .about h3{
   text-align: center;
   color: #FAB2C0;
-  font-family: cursive;
+  font-family: 'Lobster';
   margin-bottom: 30px;
   font-size: 20px;
 }
@@ -109,12 +114,11 @@ span{
   width: 570px;
   margin-right: 20px;
   margin-bottom: 50px;
-  color: #827F81;
 }
 .mywork h3{
   text-align: center;
   color: #FAB2C0;
-  font-family: cursive;
+  font-family: 'Lobster';
   margin-bottom: 30px;
   font-size: 20px;
 }
@@ -143,4 +147,10 @@ span{
 .tiles h4{
   color: #FAB2C0;
   font-size: 12px;
+}
+
+
+footer{
+  height: 400px;
+  background-color: #000;
 }
